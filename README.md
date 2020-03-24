@@ -1,2 +1,5 @@
-# N_queens
-a N-queens-problem visualization
+## N Queens
+### N-Queens-Problem Visualization.
+&emsp;&emsp;
+  A simply exercise of python. I use loop instead of recursion to solve this problem.<br>
+
